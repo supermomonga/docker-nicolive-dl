@@ -16,4 +16,4 @@ docker run -rm -it -v ./data:/data momonga/nicolive-dl -e [email] -p [passwd] -l
 ## Features
 
 - [X] Save flv
-- [] Save comment
+- [ ] Save comment
