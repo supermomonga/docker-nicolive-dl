@@ -2,11 +2,14 @@
 
 The Dockerfile to save nicolive time shift flv.
 
+## Requirements
+
+- Docker
 
 ## How to use
 
-1. Enter playing page, by manually.
-1. Run following command, then the flv file saved into `./data` folder.
+1. You need to play the time shift movie once, by manually. So use your web browser to do it.
+1. Run following command, then the flv file will be saved into `./data` folder.
 
 ```
 docker pull momonga/nicolive-dl
